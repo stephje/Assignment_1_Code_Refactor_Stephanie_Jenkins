@@ -6,7 +6,7 @@ Website for fictional marketing company "Horiseon", refactored to conform with a
 
 ## Design Notes
 
-* Includes alt attributes in line with accessibility guidlines, including empty alt attributes for decorative icons that lack functionality (i.e. are not links)
+* Includes alt attributes in line with accessibility guidlines
 
 * Title designed to be both concise and descriptive, capturing the company name and main service/area of expertise (digital marketing)
 
